@@ -1,2 +1,2 @@
-## Mi Portfolio de Proyectos
+# Mi Portfolio de Proyectos
 Una muestra de algunos proyectos que realicé utilizando diferentes tecnologías.
